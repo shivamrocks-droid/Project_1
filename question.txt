@@ -1,0 +1,10 @@
+What is the capital of Bihar?
+A.PATNA  B.RANCHI  C.KOLKATA  D.LUCKNOW
+What is the capital of Karnataka?
+A.PATNA  B.RANCHI  C.KOLKATA  D.NONE
+What is the capital of Tamil Nadu?
+A.MADRAS  B.CHENNAI  C.KOLKATA  D.NONE
+What is the capital of Gujrat?
+A.GANDHI NAGAR  B.BHOPAL  C.AMRITSAR  D.SURAT
+What is the capital of Punjab?
+A.TEJPUR  B.AMRITSAR  C.BHATINDA  D.NONE
